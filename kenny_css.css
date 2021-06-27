@@ -1,0 +1,62 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ #logo {
+     
+     /* width: 125px;
+     height: 180px;
+     border-right: 45px solid blue;
+     border-radius: 20px;
+     position: relative;
+     overflow: hidden;
+     margin-top: 50px; */
+    }
+
+    #fLetter {
+        font-size: 90px;
+        padding-top:30px;
+        padding-bottom:50px;
+        padding-left:50px;
+        padding-right: 50px;
+        font-weight:bold;
+        color:white;
+        border-radius:20%;
+        background-color: blue;
+    }
+
+    /* span {
+        position:absolute;
+    } */
+
+    /* .vertical {
+            background-color: blue;
+            width: 72px;
+            height: 295;
+            border: 45px solid white;
+            bottom: -126px;
+            right: -70px;
+            border-radius: 60px;
+        }
+
+        
+        .horizontal {
+            background-color: blue;
+            width: 130px;
+            height: 45px;
+            top: 139px;
+            right: 3px;
+
+        }
+
+        .diogonal { 
+             background-color: blue;
+             width: 50px;
+             height: 50px;
+             top: 140px;
+             z-index: 1;
+             transform: rotateZ(-82deg);
+        } */
+    
